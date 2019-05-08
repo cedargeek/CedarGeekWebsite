@@ -1,0 +1,28 @@
+﻿@model GenericModel
+
+
+<link rel="stylesheet" href="~/css/header.css" type="text/css" />
+<header>
+    <div id="welcome">
+        <h1 id="welcomehdr">Welcome to our Playground!</h1>
+    </div>
+    <nav>
+        <ul>
+            <li class="@Model.GetActive("Home")">
+                <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            </li>
+            <li class="@Model.GetActive("Tools")">
+                <a asp-area="" asp-controller="Home" asp-action="Tools">Tools</a>
+            </li>
+            <li class="@Model.GetActive("Playground")">
+                <a asp-area="" asp-controller="Home" asp-action="Playground">Playground</a>
+            </li>
+            <li class="@Model.GetActive("Challenges")">
+                <a asp-area="" asp-controller="Home" asp-action="Challenges">Challenges</a>
+            </li>
+            <li class="@Model.GetActive("Contact")">
+                <a asp-area="" asp-controller="Home" asp-action="Contact">Contact Us</a>
+            </li>
+        </ul>
+    </nav>
+</header>

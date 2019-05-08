@@ -1,0 +1,138 @@
+﻿p {
+    margin: 15px;
+}
+
+#growthtrack {
+    background-color: black;
+    width: 250px;
+    padding: 0 40px;
+    float: left;
+}
+
+img {
+    width: auto;
+    height: 450px;
+}
+
+body {
+    color: white;
+}
+
+.challenge {
+    margin: 0;
+    padding: 5px;
+}
+
+#challenge {
+    background-color: black;
+    text-align: center;
+    padding: 5px
+}
+
+.description {
+    padding: 15px;
+    text-align: justify;
+    text-indent: 40px;
+}
+
+.desclbl {
+    margin: 0;
+    padding: 5px;
+    text-align: center;
+    text-indent: 0;
+}
+
+#team {
+    background-color: darkcyan;
+    background-image: linear-gradient(black,darkcyan);
+}
+
+#church {
+    background-color: darkblue;
+    background-image: linear-gradient(darkcyan,darkblue);
+}
+
+#churchdesc {
+    width: auto;
+    height: 454px;
+    padding: 0 0 0 330px;
+}
+
+a {
+    color: white;
+}
+
+@media screen and (max-width: 599px) {
+    .desclbl {
+        font-size: 20px;
+    }
+
+    .description {
+        font-size: 14px;
+    }
+    #growthtrack {
+        float: none;
+        width: 100%;
+        padding: 0 0 0 25%;
+    }
+    img {
+        max-width: 50%;
+        height: auto;
+    }
+    #churchdesc {
+        width: 100%;
+        height: auto;
+        padding: 0;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 767px) {
+    .description {
+        font-size: 14px;
+    }
+    #growthtrack {
+        padding: 35px 10px;
+        width: 200px;
+    }
+    img {
+        max-height: 350px;
+    }
+    #churchdesc {
+        height: 425px;
+        padding: 0 0 0 200px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .description {
+        font-size: 16px;
+    }
+
+    #growthtrack {
+        width: 200px;
+        padding: 39px 15px;
+        height: 350px;
+    }
+
+    img {
+        max-height: 350px;
+    }
+
+    #churchdesc {
+        padding: 0 0 0 220px;
+        height: 428px;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .description {
+        font-size: 18px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .description {
+        font-size: 20px;
+    }
+}
+/* The next to are for the iPad only. Something about them is makeing things screwy*/

@@ -1,0 +1,106 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gifts Assessment</title>
+
+    <!--Favicon Stuff-->
+    <link rel="apple-touch-icon" sizes="180x180" href="~/img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="~/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="~/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+
+    <link rel="stylesheet" href="~/css/common.css" type="text/css" />
+    <link rel="stylesheet" href="~/css/assess.css" type="text/css" />
+
+    <script src="~/js/assess.js" type="text/javascript"></script>
+</head>
+<body>
+    <button id="home" type="button" onclick="location.href='@Url.Action("Index", "Home")'">Home</button>
+    <div id="container">
+        <!--FIRST NEED TO ASK IF TAKING THE ASSESSMENT: THEN CAN ASK WHICH ONE-->
+        <h1 id="notice">Would you like to take the assessment?</h1>
+        <div id="examopt">
+            <button class="examoptbtn" id="" onclick="TakeExam()">Take Assessment</button>
+            <button class="examoptbtn" id="" onclick="SkipExam()">Skip Assessment</button>
+        </div>
+
+        <div id="examtake">
+            <div id="examtype">
+                <button class="examtypebtn" id="btndisc" type="button" onclick="document.getElementById('notice').innerHTML = GetAssessment('disc')">DISC</button>
+                <button class="examtypebtn" id="btnsga" type="button" onclick="document.getElementById('notice').innerHTML = GetAssessment('gift')">Gifts</button>
+                <button class="examtypebtn" id="btnboth" type="button" onclick="document.getElementById('notice').innerHTML = GetAssessment('both')">Both</button>
+            </div>
+            <div id="answerdisc">
+                <button class="discanswer" id="btn0" type="button" onclick="document.getElementById('notice').innerHTML = AnswerQuestion(1)">Never</button>
+                <button class="discanswer" id="btn1" type="button" onclick="document.getElementById('notice').innerHTML = AnswerQuestion(2)">Rarely</button>
+                <button class="discanswer" id="btn2" type="button" onclick="document.getElementById('notice').innerHTML = AnswerQuestion(3)">Sometimes</button>
+                <button class="discanswer" id="btn3" type="button" onclick="document.getElementById('notice').innerHTML = AnswerQuestion(4)">Often</button>
+                <button class="discanswer" id="btn4" type="button" onclick="document.getElementById('notice').innerHTML = AnswerQuestion(5)">Always</button>
+            </div>
+            <div id="answersga">
+                <button class="sgaanswer" id="btn5" type="button" onclick="document.getElementById('notice').innerHTML = AnswerQuestion(0)">Not Me</button>
+                <button class="sgaanswer" id="btn6" type="button" onclick="document.getElementById('notice').innerHTML = AnswerQuestion(1)">Sometimes</button>
+                <button class="sgaanswer" id="btn7" type="button" onclick="document.getElementById('notice').innerHTML = AnswerQuestion(2)">Often</button>
+                <button class="sgaanswer" id="btn8" type="button" onclick="document.getElementById('notice').innerHTML = AnswerQuestion(3)">This is Me</button>
+            </div>
+            <div id="answeropt">
+                <button class="discanswer" id="btn9" type="button" onclick="document.getElementById('notice').innerHTML = AnswerQuestion(1)">Not Me</button>
+                <button class="discanswer" id="btn10" type="button" onclick="document.getElementById('notice').innerHTML = AnswerQuestion(2)">Not Usually</button>
+                <button class="discanswer" id="btn11" type="button" onclick="document.getElementById('notice').innerHTML = AnswerQuestion(3)">Possibly</button>
+                <button class="discanswer" id="btn12" type="button" onclick="document.getElementById('notice').innerHTML = AnswerQuestion(4)">Mostly</button>
+                <button class="discanswer" id="btn13" type="button" onclick="document.getElementById('notice').innerHTML = AnswerQuestion(5)">Definitely</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+
+<!--
+// need progress bar
+    SEQUENCE OF EVENTS:
+    WOULD YOU LIKE TO TAKE THE ASSESSMENT?
+        TAKE ASSESSMENT
+            WHICH ONE?
+                DISC
+                    TAKE DISC EXAM ONLY
+                    FINAL PAGE BUTTONS:
+                        RETURN TO "WOULD YOU LIKE TO TAKE ASSESSMENT"
+                        HOME (INDEX)
+    <if the user has an account, be able to save progress>
+                GIFT
+                    TAKE GIFT EXAM ONLY
+                    DREAM-TEAM PLACEMENT
+                BOTH
+                    TAKE DISC AND GIFT EXAMS
+                    DREAM-TEAM PLACEMENT
+        SKIP ASSESSMENT
+            WHAT WAS YOUR DISC PERSONALITY?
+                (SELECT FROM 12)
+                I DON'T REMEMBER
+            WHAT WERE YOUR SPIRITUAL GIFTS?
+                (SELECT FROM 19 SEQUENTIALLY)
+                CHECKBOX: I REMEMBER THE EXACT ORDER
+            DREAM-TEAM PLACEMENT
+
+    Thing to note: I only want Server Side for getting the database information.
+    I do not want to bog down the Server by multiple sessions going on at once, so everything else
+    needs to be done client-side. This means JavaScript (which must be enabled).
+
+    Hide or show elements in HTML using display property
+Style display property is used to hide and show the content of HTML DOM by accessing the DOM element using JavaScript/jQuery.
+
+To hide an element, set the style display property to “none”.
+
+document.getElementById("element").style.display = "none";
+To show an element, set the style display property to “block”.
+
+document.getElementById("element").style.display = "block";
+-->

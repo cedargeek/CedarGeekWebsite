@@ -1,0 +1,120 @@
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.deps.json
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.runtimeconfig.json
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.runtimeconfig.dev.json
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.dll
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.pdb
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.Views.dll
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.Views.pdb
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.csprojAssemblyReference.cache
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.Properties.Resources.resources
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.csproj.GenerateResource.cache
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.RazorAssemblyInfo.cache
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.RazorAssemblyInfo.cs
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.AssemblyInfoInputs.cache
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.AssemblyInfo.cs
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.TagHelpers.input.cache
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.TagHelpers.output.cache
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.RazorCoreGenerate.cache
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.Views.pdb
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.dll
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.pdb
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.csproj.CopyComplete
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Donations.g.cshtml.cs
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_FooterPartial.g.cshtml.cs
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_HeaderPartial.g.cshtml.cs
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Tools.g.cshtml.cs
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Playground.g.cshtml.cs
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Challenges.g.cshtml.cs
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.dll.config
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.deps.json
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.runtimeconfig.json
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.runtimeconfig.dev.json
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.dll
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.pdb
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.Views.dll
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.Views.pdb
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.csprojAssemblyReference.cache
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.dll.config
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.Properties.Resources.resources
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.csproj.GenerateResource.cache
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.csproj.CoreCompileInputs.cache
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.RazorAssemblyInfo.cache
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.RazorAssemblyInfo.cs
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.AssemblyInfoInputs.cache
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.AssemblyInfo.cs
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.TagHelpers.input.cache
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.TagHelpers.output.cache
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.RazorCoreGenerate.cache
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Challenges.g.cshtml.cs
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Donations.g.cshtml.cs
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Playground.g.cshtml.cs
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Tools.g.cshtml.cs
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_FooterPartial.g.cshtml.cs
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_HeaderPartial.g.cshtml.cs
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.RazorTargetAssemblyInfo.cache
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.RazorTargetAssemblyInfo.cs
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.Views.pdb
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.dll
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.pdb
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.csproj.CopyComplete
+F:\CedarGeek\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Assess.g.cshtml.cs
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.dll.config
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.dll.config
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Assess.g.cshtml.cs
+C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+F:\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.dll.config
+F:\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.deps.json
+F:\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.runtimeconfig.json
+F:\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.runtimeconfig.dev.json
+F:\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.dll
+F:\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.pdb
+F:\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.Views.dll
+F:\CedarGeekWebsite\CedarGeekWebsite\bin\Debug\netcoreapp2.2\CedarGeekWebsite.Views.pdb
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.csprojAssemblyReference.cache
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.dll.config
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.Properties.Resources.resources
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.csproj.GenerateResource.cache
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.csproj.CoreCompileInputs.cache
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.RazorAssemblyInfo.cache
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.RazorAssemblyInfo.cs
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.AssemblyInfoInputs.cache
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.AssemblyInfo.cs
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.TagHelpers.input.cache
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.TagHelpers.output.cache
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.RazorCoreGenerate.cache
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Assess.g.cshtml.cs
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Challenges.g.cshtml.cs
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Donations.g.cshtml.cs
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Playground.g.cshtml.cs
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Tools.g.cshtml.cs
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_FooterPartial.g.cshtml.cs
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_HeaderPartial.g.cshtml.cs
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.RazorTargetAssemblyInfo.cache
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.RazorTargetAssemblyInfo.cs
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.Views.pdb
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.dll
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.pdb
+F:\CedarGeekWebsite\CedarGeekWebsite\obj\Debug\netcoreapp2.2\CedarGeekWebsite.csproj.CopyComplete

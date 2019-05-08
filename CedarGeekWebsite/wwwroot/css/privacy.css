@@ -1,0 +1,20 @@
+﻿#privacy {
+    background-color: maroon;
+    background-image: linear-gradient(darkblue, maroon);
+    color: white;
+    text-align: justify;
+    font-size: 18px;
+    padding: 40px;
+    text-indent: 40px;
+}
+#privacy h1 {
+    margin: 0;
+    padding: 10px;
+    text-indent: 0;
+    text-align: center;
+}
+@media screen and (max-width: 599px) {
+    #privacy {
+        padding: 20px;
+    }
+}

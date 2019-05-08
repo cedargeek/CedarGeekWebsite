@@ -1,0 +1,75 @@
+﻿@model GenericModel
+@{
+    ViewData["Title"] = "Contact";
+
+    string SendEmailResult()
+    {
+        // If all required parameters (above) are met, send the email.
+        return "Thank you!";
+    }
+}
+<style>
+    h1 {
+        color: white;
+    }
+    input {
+        padding: 5px;
+        font-size: 16px;
+        width: 300px;
+    }
+    label {
+        color: white;
+        font-size: 27px;
+        margin: 15px;
+    }
+    #Labels {
+        width: 200px;
+        float: left;
+    }
+    #Inputs {
+
+    }
+    #Containers {
+        width: 550px;
+        margin: 0 auto;
+    }
+</style>
+<h1>Contact</h1>
+
+<!form>
+    <div id="Containers">
+        <div id="Labels">
+            <label>Email Address: </label>
+            <br />
+            <label>Name: </label>
+            <br />
+            <label>Subject: </label>
+            <br />
+            <label>Tool or Game: </label>
+        </div>
+        <div id="Inputs">
+            <input required id="EmailAddress" type="email" />
+            <br />
+            <input id="PersonName" type="text" />
+            <br />
+            <input required id="SubjectLine" type="text" />
+            <br />
+            <input id="Tool" type="text" list="toolsList" />
+            <datalist id="toolsList">
+                <!option>Roman Hangman</!option>
+                <!option>Spiritual Gifts Assessment</!option>
+                <!option>Something Strange</!option>
+                <!option>Maybe something else...?</!option>
+            </datalist>
+            <br />
+        </div>
+        <label style="width: 100%; text-align: center;">Message: </label>
+        <textarea required rows="20" cols="80" id="EmailMessage" style="width: 600px; height: 350px; margin: 0 auto;"></textarea>
+        <button type="button" style="height: 50px; width: 150px; margin: 0 auto;" onclick="document.getElementById('helper').innerHTML = @SendEmailResult()"></button>
+    </div>
+    <br />
+</!form>
+
+<div id="helper">
+
+</div>

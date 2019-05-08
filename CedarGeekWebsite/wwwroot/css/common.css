@@ -1,0 +1,45 @@
+﻿/*
+    Typical Device Size Breakdown:
+    Extra Small Devices: max-width: 600px
+    Small Devices (portrait tablets and large phones): 600px - 768px
+    Medium Devices (landscape tablets) 768px - 992px
+    Large Devices (laptops/desktops): 992px - 1200px
+    Extra Large Devices: min-width: 1200px
+*/
+/*
+    The following "col-" code divides the screen into 12 columns,
+    but only if all 12 are used. To ensure this is accurate,
+    make at least one item 12 columns wide, or combine several
+    to equal 12 columns (col-3, col6, 9...)
+*/
+@media screen and (max-width: 599px){
+    body {
+        width: 100%;
+    }
+}
+@media screen and (min-width: 600px) and (max-width: 767px) {
+    body {
+        width: 600px;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    body {
+        width: 765px;
+    }
+}
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    body {
+        width: 990px;
+    }
+}
+@media screen and (min-width: 1200px) {
+    body {
+        width: 1200px;
+    }
+}
+html {
+    background-color: black;
+}
+body {
+    margin: 0 auto;
+}

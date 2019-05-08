@@ -1,0 +1,36 @@
+﻿#donations {
+    margin: 10px 0;
+    text-indent: 0;
+    font-size: 28px;
+    text-align: center;
+}
+
+.explain {
+    color: white;
+    padding: 40px;
+    text-indent: 40px;
+    background-color: black;
+    background-image: linear-gradient(darkblue, black);
+    text-align: justify;
+    font-size: 18px;
+}
+
+.extra {
+    padding: 0 80px;
+}
+
+.cedarlink {
+    color: yellow;
+}
+.cedarlink:visited {
+    color: yellow;
+}
+
+@media screen and (max-width: 599px) {
+    .explain {
+        padding: 20px;
+    }
+    .extra {
+        padding: 0 30px;
+    }
+}

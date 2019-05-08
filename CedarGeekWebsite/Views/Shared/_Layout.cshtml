@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CedarGeek @ViewData["Title"]</title>
+
+    <!--Favicon Stuff-->
+    <link rel="apple-touch-icon" sizes="180x180" href="~/img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="~/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="~/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+
+    <!-- 980px is the width of wix desktop style.
+          320 x 700 for mobile portrait
+          (use 700 x 320 for mobile landscape)-->
+
+    <!--include my main style sheet for phone sizing and stuff...-->
+    <link rel="stylesheet" href="~/css/common.css" type="text/css" />
+</head>
+<body>
+
+    <partial name="_HeaderPartial" />
+        <main>
+            @RenderBody()
+        </main>
+    <partial name="_FooterPartial" />
+</body>
+</html>

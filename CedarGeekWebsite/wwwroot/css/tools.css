@@ -1,0 +1,31 @@
+﻿#tools {
+    color: Highlight;
+    text-indent: 40px;
+    text-align: justify;
+    font-size: 18px;
+    padding: 40px;
+}
+
+#tools h1 {
+    text-align: center;
+    text-indent: 0;
+    margin: 0;
+}
+
+#sga {
+    height: 155px;
+    width: 155px;
+    background-image: url(../img/tools/Icon512x512Alpha.png);
+    background-size: 150px 150px;
+    background-repeat: no-repeat;
+    background-position: -2px -1px;
+}
+
+@media screen and (max-width: 599px) {
+    #tools {
+        padding: 20px;
+    }
+    #tools h1 {
+        
+    }
+}

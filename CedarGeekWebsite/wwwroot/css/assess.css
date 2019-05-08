@@ -1,0 +1,128 @@
+﻿#home {
+    height: 35px;
+    width: 100px;
+    background-color: maroon;
+    color: white;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    font-size: 24px;
+}
+button {
+    font-weight: bold;
+}
+#examtype { /*div element*/
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    margin: 20px auto;
+    color: white;
+}
+#examopt { /*div element*/
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    margin: 20px auto;
+    color: white;
+}
+.examtypebtn { /*class for the 3 buttons*/
+    width: 150px;
+    height: 50px;
+    margin: 15px;
+    font-size: 24px;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+#container {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+#btndisc {
+    background-color: rgb(204, 204, 204);
+    color: rgb(0, 125, 150);
+}
+#btnsga {
+    background-color: rgb(0, 255, 255);
+    color: black;
+}
+#btnboth {
+    background-color: rgb(0, 125, 150);
+    color: rgb(204, 204, 204);
+}
+#examtake {
+    display: none;
+}
+.examoptbtn { /*class for the 3 buttons*/
+    width: 250px;
+    height: 50px;
+    margin: 15px;
+    font-size: 24px;
+}
+/*container disc buttons*/
+#answerdisc, #answeropt {
+    display: none;
+    width: 425px;
+    height: 175px;
+    margin: 0 auto;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+/*container sga buttons*/
+#answersga {
+    display: none;
+    width: 425px;
+    height: 122px;
+    margin: 0 auto;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+/*all answer buttons*/
+.discanswer {
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    margin: auto;
+}
+.sgaanswer {
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    margin: auto;
+}
+
+#btn0, #btn5, btn9 {
+    background-color: rgb(204, 205, 206);
+    color: rgb(0, 125, 150);
+}
+#btn1, btn10 {
+    background-color: rgb(153, 185, 192);
+    color: rgb(0, 75, 125);
+}
+#btn2, btn11 {
+    background-color: rgb(102, 165, 178);
+    color: rgb(0, 0, 0);
+}
+#btn3, btn12 {
+    background-color: rgb(51, 145, 164);
+    color: rgb(225, 225, 225);
+}
+#btn4, #btn8, btn13 {
+    background-color: rgb(0, 125, 150);
+    color: rgb(204, 204, 204);
+}
+#btn6 {
+    background-color: rgb(136, 179, 186);
+    color: rgb(0, 75, 125);
+}
+#btn7 {
+    background-color: rgb(68, 152, 168);
+    color: rgb(225, 225, 225);
+}

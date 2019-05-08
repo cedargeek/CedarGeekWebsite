@@ -1,0 +1,8 @@
+Remember that the FileName is Date - Time - User
+ .:. C:\Users\Desktop\Documents\Projects\CedarCreek Church\CedarGeekWebsite\CedarGeekWebsite\Models\AssessModel.cs .:. 
+ .:. Method Name = IssueFailure .:. 
+ .:. Line Number = 470 .:. 
+ .:. Could not connect to the database. .:. 
+This user saw: We are terribly sorry, but there has been an error while trying to connect to the database. An email has been sent to the administrator, and you will be notified when the issue is resolved. Thank you for your patience, and we sincerely apologize for the inconvenience.
+Database Connection Error
+Chris, Please investigate the attached error at your earliest convenience. A user had a problem with your program.
